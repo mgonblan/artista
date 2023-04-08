@@ -1,0 +1,3 @@
+class BudgetItemModel {String? id = "";
+
+ }

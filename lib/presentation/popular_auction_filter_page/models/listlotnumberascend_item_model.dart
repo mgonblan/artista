@@ -1,0 +1,3 @@
+class ListlotnumberascendItemModel {String? id = "";
+
+ }

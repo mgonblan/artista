@@ -1,0 +1,3 @@
+class SliderbuyartfrompremiOneItemModel {String? id = "";
+
+ }
